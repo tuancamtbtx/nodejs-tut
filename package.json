@@ -1,0 +1,23 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bai1.js",
+  "dependencies": {
+    "mongodb": "^2.2.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuancamtbtx/nodejs-tut.git"
+  },
+  "author": "nguyenvantuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuancamtbtx/nodejs-tut/issues"
+  },
+  "homepage": "https://github.com/tuancamtbtx/nodejs-tut#readme"
+}
